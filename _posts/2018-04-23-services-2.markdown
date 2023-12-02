@@ -1,9 +1,0 @@
----
-layout: default
-img: freelance.png
-category: Services
-title: Freelance
-description: |
----
-  I seek out opportunities to help non-profits as time permits, mainly through consulting. For the past 2 years i have worked with. [DSMHack](https://dsmHack.org) - a not-for-profit organization working to elevate and strengthen the community by building software, learning from each other and giving back.  I have provided technical assistance for the teams and Staff, basically helped out as needed.
-  I am also open to small commercial consulting as a per project(or hourly) basis.

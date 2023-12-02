@@ -7,7 +7,7 @@ title: Dana Cleveland - ScritchyLabs
 email: dana@scritchy.org
 author: Dana Cleveland
 description: > # "Person website and landing page of Dana Cleveland.
-  Contains information of a 25+ year polygot developer and SysAdmin. 
+  Contains information of a 25+ year polygot developer and SysAdmin, and Platform Engineer. 
   Well versed on DevOps, agile, Cloud programming and day 2 management. 
 copyright: 'Copyright &copy; 2018 Dana Cleveland/ScritcyLabs. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="https://startbootstrap.com/">Start Bootstrap</a>.'
@@ -35,3 +35,6 @@ social:
     url: https://www.visualcv.com/dana-cleveland
   - title: photography
     url: https://scritchylabsphotos.pixieset.com
+  - title: email
+    url: mailto:dana@scritchy.org
+

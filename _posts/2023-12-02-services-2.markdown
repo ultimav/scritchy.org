@@ -1,0 +1,12 @@
+---
+layout: default
+img: freelance.png
+category: Services
+title: Maker
+description: |
+---
+  I am a Maker. I create things through materials such as 3dprinting (ABS, PETG, PLA), electronics, custom PCB, wood, etc.
+  Pictures and Descriptions of recent projects to follow, but do include such things as 
+  . Automated Zen Garden, Sand Table. You give it the designs in gcode, and it creates them and destroys them.
+  . Depth monitor for parking a vehicle in your garage. Gives you indications through LEDs when you are far enough in through "sonar"
+  . Custom "Hello" Badges, and other PCBs for fun, uility, and amazement, running on a variety of micro controllers such as ATTiny 45/86/1616, Arduino, ESP32/8266

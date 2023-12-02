@@ -1,9 +1,0 @@
----
-layout: default
-img: work.png
-category: Services
-title: Experience
-description: |
----
-  I work with a very small team of individuals tasked with helping bring our company into a new digital era, on premise and in the “cloud”. We are the Oregon Trail pioneers, if you will, but without the chance of dysentery. We use a maverick spirit for innovation. We pivot on dimes, learning as we go, spreading the tribe knowledge. 
-  In my previous team we helped our company's approximately 1500 developers do their jobs better. We did this by providing the infrastructure and tooling they needed to support development. Tools include CI/CD pipelines, artifact dependency management, and source code version control. Managing the full stack on more that 40 servers from application to commandline including upgrades, scripting, backups, certificates, as well as custom plugins to integrate with existing company systems.   

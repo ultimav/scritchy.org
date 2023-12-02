@@ -1,0 +1,10 @@
+---
+layout: default
+img: work.png
+category: Services
+title: Experience
+description: |
+---
+  I work on a small team at Atlassian that provides a service to spin up an instance of all our current products through a single Service Desk Request. It then seeds those instances with Demo data, as well as streams data into them over time. Essentially it provides a means to demostrate how our products work together to unleash the power of every team. This service is available to all of our employees as well as almost all our Partners. I also support all teams that support our Enterprise customer engagements, through the use of custom written AddOns to our tools, as well as out of the features such as Automation for Jira/Confluence
+  Previous, I worked with a very small team of individuals at my former employer that were tasked with helping bring that company into a new digital era, on premise and in the “cloud”. We were Pioneers of Oregon Trail, if you will, but without the chance of dysentery. We used a maverick spirit for innovation,  pivot on dimes, learning as we go, and spreading the tribe knowledge. 
+  Also in my previous role I helped previous company's approximately 1500 developers essentailly do their jobs better. This was accomplished by providing the infrastructure and tooling needed to support development. Tools include CI/CD pipelines, artifact dependency management, and version control. Managing the full stack on more that 40 servers from application to commandline. This included upgrades, scripting, backups, certificates, as well as custom plugins to integrate with other existing systems.   
