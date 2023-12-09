@@ -51,4 +51,3 @@ jobs:
             ssh -o StrictHostKeyChecking=no -p$DEPLOY_REMOTE_PORT $DEPLOY_USER@$DEPLOY_REMOTE "mkdir -p /var/www/html/files/"
             scp -o StrictHostKeyChecking=no -r -P$DEPLOY_REMOTE_PORT ~/repo/files/.htaccess $DEPLOY_USER@$DEPLOY_REMOTE:/var/www/html/files/.htaccess
             scp -o StrictHostKeyChecking=no -r -P$DEPLOY_REMOTE_PORT ~/repo/files/* $DEPLOY_USER@$DEPLOY_REMOTE:/var/www/html/files/	
-
