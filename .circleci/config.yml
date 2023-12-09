@@ -29,7 +29,6 @@ jobs:
           name: install dependencies
           command: |
             bundle install --jobs=4 --retry=3 --path vendor/bundle
-            gem install -n /usr/local/bin jekyll
 
       - save_cache:
           paths:
