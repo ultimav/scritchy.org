@@ -39,8 +39,7 @@ jobs:
       - run:
           name: Build site
           command: |
-            ./vendor/bundle
-            jekyll build
+            bundle exec jekyll build 
 
       # Deploy 
       - deploy:     
