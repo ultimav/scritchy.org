@@ -6,7 +6,7 @@ jobs:
   build:
     docker:
       # specify the version you desire here
-       - image: cimg/ruby-3.0.6-node
+       - image: cimg/ruby:3.0.6-node
       
       # Specify service dependencies here if necessary
       # CircleCI maintains a library of pre-built images
